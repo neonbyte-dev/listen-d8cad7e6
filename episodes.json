@@ -10,16 +10,6 @@
     "description": "HangukQuant \u2014 2 years in crypto"
   },
   {
-    "filename": "2026-04-15_compilation-corn-thesis-source-audiobook-gemini.mp3",
-    "title": "CORN thesis \u2014 source audiobook",
-    "author": "Compilation",
-    "date": "2026-04-15",
-    "pub_date": "2026-04-15T21:48:12.109128Z",
-    "duration_s": 588,
-    "size_bytes": 7062469,
-    "description": "Compilation \u2014 CORN thesis \u2014 source audiobook"
-  },
-  {
     "filename": "2026-04-15_asymmetricalbets-fly-thesis-firefly-aerospace-source-audiobo.mp3",
     "title": "FLY thesis \u2014 Firefly Aerospace source audiobook",
     "author": "AsymmetricalBets",
@@ -28,5 +18,15 @@
     "duration_s": 497,
     "size_bytes": 5965787,
     "description": "AsymmetricalBets \u2014 FLY thesis \u2014 Firefly Aerospace source audiobook"
+  },
+  {
+    "filename": "2026-04-15_compilation-corn-thesis-source-audiobook-gemini.mp3",
+    "title": "CORN thesis \u2014 source audiobook",
+    "author": "Compilation",
+    "date": "2026-04-15",
+    "pub_date": "2026-04-15T22:20:08.626179Z",
+    "duration_s": 404,
+    "size_bytes": 4858981,
+    "description": "Compilation \u2014 CORN thesis \u2014 source audiobook"
   }
 ]
