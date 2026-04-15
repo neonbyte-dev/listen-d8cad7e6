@@ -12,7 +12,17 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg"/>
     <image><url>https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg</url><title>Bob's Listening List</title><link>https://neonbyte-dev.github.io/listen-d8cad7e6/</link></image>
-    <lastBuildDate>Wed, 15 Apr 2026 21:36:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 21:48:12 +0000</lastBuildDate>
+    <item>
+      <title>CORN thesis — source audiobook</title>
+      <description>Compilation — CORN thesis — source audiobook</description>
+      <pubDate>Wed, 15 Apr 2026 21:48:12 +0000</pubDate>
+      <guid isPermaLink="false">2026-04-15_compilation-corn-thesis-source-audiobook-gemini.mp3</guid>
+      <enclosure url="https://neonbyte-dev.github.io/listen-d8cad7e6/episodes/2026-04-15_compilation-corn-thesis-source-audiobook-gemini.mp3" length="7062469" type="audio/mpeg"/>
+      <itunes:duration>09:48</itunes:duration>
+      <itunes:author>Compilation</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>Morning briefing</title>
       <description>Steamdeck — Morning briefing</description>
