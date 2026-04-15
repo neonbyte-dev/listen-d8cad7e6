@@ -12,7 +12,17 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg"/>
     <image><url>https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg</url><title>Bob's Listening List</title><link>https://neonbyte-dev.github.io/listen-d8cad7e6/</link></image>
-    <lastBuildDate>Wed, 15 Apr 2026 22:20:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 22:22:47 +0000</lastBuildDate>
+    <item>
+      <title>FLY thesis — Firefly Aerospace source audiobook</title>
+      <description>AsymmetricalBets — FLY thesis — Firefly Aerospace source audiobook</description>
+      <pubDate>Wed, 15 Apr 2026 22:22:47 +0000</pubDate>
+      <guid isPermaLink="false">2026-04-15_asymmetricalbets-fly-thesis-firefly-aerospace-source-audiobo.mp3</guid>
+      <enclosure url="https://neonbyte-dev.github.io/listen-d8cad7e6/episodes/2026-04-15_asymmetricalbets-fly-thesis-firefly-aerospace-source-audiobo.mp3" length="5532347" type="audio/mpeg"/>
+      <itunes:duration>07:40</itunes:duration>
+      <itunes:author>AsymmetricalBets</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>CORN thesis — source audiobook</title>
       <description>Compilation — CORN thesis — source audiobook</description>
@@ -21,16 +31,6 @@
       <enclosure url="https://neonbyte-dev.github.io/listen-d8cad7e6/episodes/2026-04-15_compilation-corn-thesis-source-audiobook-gemini.mp3" length="4858981" type="audio/mpeg"/>
       <itunes:duration>06:44</itunes:duration>
       <itunes:author>Compilation</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>FLY thesis — Firefly Aerospace source audiobook</title>
-      <description>AsymmetricalBets — FLY thesis — Firefly Aerospace source audiobook</description>
-      <pubDate>Wed, 15 Apr 2026 21:53:58 +0000</pubDate>
-      <guid isPermaLink="false">2026-04-15_asymmetricalbets-fly-thesis-firefly-aerospace-source-audiobo.mp3</guid>
-      <enclosure url="https://neonbyte-dev.github.io/listen-d8cad7e6/episodes/2026-04-15_asymmetricalbets-fly-thesis-firefly-aerospace-source-audiobo.mp3" length="5965787" type="audio/mpeg"/>
-      <itunes:duration>08:17</itunes:duration>
-      <itunes:author>AsymmetricalBets</itunes:author>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
