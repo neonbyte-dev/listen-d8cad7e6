@@ -12,7 +12,7 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg"/>
     <image><url>https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg</url><title>Bob's Listening List</title><link>https://neonbyte-dev.github.io/listen-d8cad7e6/</link></image>
-    <lastBuildDate>Wed, 15 Apr 2026 21:53:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 21:58:42 +0000</lastBuildDate>
     <item>
       <title>FLY thesis — Firefly Aerospace source audiobook</title>
       <description>AsymmetricalBets — FLY thesis — Firefly Aerospace source audiobook</description>
@@ -31,16 +31,6 @@
       <enclosure url="https://neonbyte-dev.github.io/listen-d8cad7e6/episodes/2026-04-15_compilation-corn-thesis-source-audiobook-gemini.mp3" length="7062469" type="audio/mpeg"/>
       <itunes:duration>09:48</itunes:duration>
       <itunes:author>Compilation</itunes:author>
-      <itunes:explicit>no</itunes:explicit>
-    </item>
-    <item>
-      <title>Morning briefing</title>
-      <description>Steamdeck — Morning briefing</description>
-      <pubDate>Wed, 15 Apr 2026 21:36:27 +0000</pubDate>
-      <guid isPermaLink="false">2026-04-15_steamdeck-morning-briefing-gemini.mp3</guid>
-      <enclosure url="https://neonbyte-dev.github.io/listen-d8cad7e6/episodes/2026-04-15_steamdeck-morning-briefing-gemini.mp3" length="1458259" type="audio/mpeg"/>
-      <itunes:duration>02:01</itunes:duration>
-      <itunes:author>Steamdeck</itunes:author>
       <itunes:explicit>no</itunes:explicit>
     </item>
     <item>
