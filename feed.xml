@@ -12,7 +12,17 @@
     <itunes:explicit>no</itunes:explicit>
     <itunes:image href="https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg"/>
     <image><url>https://neonbyte-dev.github.io/listen-d8cad7e6/cover.jpg</url><title>Bob's Listening List</title><link>https://neonbyte-dev.github.io/listen-d8cad7e6/</link></image>
-    <lastBuildDate>Wed, 15 Apr 2026 22:27:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 15 Apr 2026 22:35:30 +0000</lastBuildDate>
+    <item>
+      <title>BE thesis — Bloom Energy source audiobook</title>
+      <description>Leopold — BE thesis — Bloom Energy source audiobook</description>
+      <pubDate>Wed, 15 Apr 2026 22:35:30 +0000</pubDate>
+      <guid isPermaLink="false">2026-04-15_leopold-be-thesis-bloom-energy-source-audiobook-gemini.mp3</guid>
+      <enclosure url="https://neonbyte-dev.github.io/listen-d8cad7e6/episodes/2026-04-15_leopold-be-thesis-bloom-energy-source-audiobook-gemini.mp3" length="4262828" type="audio/mpeg"/>
+      <itunes:duration>05:55</itunes:duration>
+      <itunes:author>Leopold</itunes:author>
+      <itunes:explicit>no</itunes:explicit>
+    </item>
     <item>
       <title>VIAV thesis — Viavi Solutions source audiobook</title>
       <description>AsymmetricalBets — VIAV thesis — Viavi Solutions source audiobook</description>
